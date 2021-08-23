@@ -1,0 +1,57 @@
+.testWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80%;
+  margin: 5% auto;
+  border: 5px solid red;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.firstSection,
+.secondSection,
+.thirdSection,
+.fourthSection {
+  height: 400px;
+  width: 400px;
+  border: 2px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.image {
+  width: 300px;
+  height: auto;
+}
+
+.firstSection:hover {
+  transform: scale(2);
+}
+
+.secondSection:hover {
+  transform: rotate(180deg);
+}
+
+.thirdSection:hover {
+  transform: translate(50%, 50%);
+}
+
+.fourthSection:hover {
+  font-size: 40px;
+}
+
+.methodDescription {
+  color: red;
+}
+
+.performanceDescription {
+  color: blue;
+}
+
+.generalDescription {
+  color: darkgreen;
+}

@@ -1,0 +1,33 @@
+.caseTile {
+  width: 350px;
+  height: 200px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+.caseRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.caseMenu {
+  height: 30px;
+}
+
+.caseId {
+  font-weight: bolder;
+  margin-left: 10px;
+}
+
+.icon {
+  height: 30px;
+}
+
+.caseContact {
+  margin-right: auto;
+}

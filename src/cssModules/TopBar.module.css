@@ -1,0 +1,23 @@
+.topBarWrapper,
+.topBarLeft,
+.topBarRight {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.topBarWrapper {
+  padding: 0 20px;
+  border: 1px solid #000000;
+}
+
+.logo,
+.menu {
+  height: 50px;
+}
+
+.logout {
+  margin-left: 20px;
+  border-bottom: 1px solid #000000;
+}

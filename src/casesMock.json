@@ -1,0 +1,102 @@
+[
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "wysoki",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 69385726,
+        "caseDate": "10:02, wtorek 12.01.2021",
+        "caseStatus": "w toku",
+        "casePriority": "niski",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "średni",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "średni",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "wysoki",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "średni",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "krytyczny",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "niski",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "10:02, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "niski",
+        "casePhoneNumber": "+48 456 234 876",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Jan Kowalski", 
+        "caseAssignee": "Monitoring Kraków"
+    },
+    {
+        "caseId": 324543829,
+        "caseDate": "09;22, wtorek 29.07.2021",
+        "caseStatus": "w toku",
+        "casePriority": "niski",
+        "caseEmail": "malgorzata.nowicka@gmail.com",
+        "caseResultDescription": "Brak wyniku", 
+        "casePatient": "Malgorzata nowicka", 
+        "caseAssignee": "Monitoring Kraków"
+    }
+]
